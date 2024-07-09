@@ -12,6 +12,17 @@
 
 3-Connect the servo power (usually red) and ground (usually black or brown) wires to the appropriate power and ground rails on the breadboard.
 
+# Software setup:
+
+1-Install the Arduino IDE
+
+2-Connect Your Arduino Uno
+
+3-Copy and Paste the Code
+
+4-Upload the Code to Arduino
+
+
 
 
 
