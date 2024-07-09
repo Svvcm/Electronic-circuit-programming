@@ -7,7 +7,9 @@
 
 # Hardware Setup:
 1-Connect the 6 servo motors to the breadboard.
+
 2-Wire each servo’s signal wire to the corresponding digital pins on the Arduino (3-8).
+
 3-Connect the servo power (usually red) and ground (usually black or brown) wires to the appropriate power and ground rails on the breadboard.
 
 
